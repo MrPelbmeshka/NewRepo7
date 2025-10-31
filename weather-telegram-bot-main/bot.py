@@ -5,6 +5,8 @@ from aiogram.filters import Command
 from aiogram.client.default import DefaultBotProperties
 from aiogram.enums import ParseMode
 
+
+# wefwfwgegrth
 BOT_TOKEN = ""  # вставь сюда токен от @BotFather
 
 bot = Bot(
